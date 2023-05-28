@@ -1,0 +1,631 @@
+[
+    {
+      "id": "1",
+      "enName": "Salt",
+      "idName": "Garam",
+      "ingIMG": ""
+    },
+
+    {
+      "id": "2",
+      "enName": "Red onion",
+      "idName": "Bawang merah",
+      "ingIMG": ""
+    },
+
+    {
+      "id": "3",
+      "enName": "Red cayenne pepper",
+      "idName": "Cabai rawit merah",
+      "ingIMG": ""
+    },
+
+    {
+      "id": "4",
+      "enName": "Green cayenne pepper",
+      "idName": "Cabai rawit hijau",
+      "ingIMG": ""
+    },
+
+    {
+      "id": "5",
+      "enName": "Lemongrass",
+      "idName": "Serai",
+      "ingIMG": ""
+    },
+
+    {
+      "id": "6",
+      "enName": "Lime leaves",
+      "idName": "Daun Jeruk",
+      "ingIMG": ""
+    },
+
+    {
+      "id": "7",
+      "enName": "Limes",
+      "idName": "Jeruk nipis",
+      "ingIMG": ""
+    },
+
+    {
+      "id": "8",
+      "enName": "Pepper",
+      "idName": "Merica",
+      "ingIMG": ""
+    },
+
+    {
+      "id": "9",
+      "enName": "Shrimp paste",
+      "idName": "Terasi udang",
+      "ingIMG": ""
+    },
+
+    {
+      "id": "10",
+      "enName": "Tamarind",
+      "idName": "Asam jawa",
+      "ingIMG": ""
+    },
+
+    {
+      "id": "11",
+      "enName": "Bird’s eye chiles",
+      "idName": "Cabai rawit",
+      "ingIMG": ""
+    },
+
+    {
+      "id": "12",
+      "enName": "Garlic",
+      "idName": "Bawang putih",
+      "ingIMG": ""
+    },
+
+    {
+      "id": "13",
+      "enName": "Roasted peanuts",
+      "idName": "Kacang panggang",
+      "ingIMG": ""
+    },
+
+    {
+      "id": "14",
+      "enName": "Sweet soy sauce",
+      "idName": "Kecap manis",
+      "ingIMG": ""
+    },
+
+    {
+      "id": "15",
+      "enName": "Palm sugar",
+      "idName": "Gula jawa",
+      "ingIMG": ""
+    },
+
+    {
+      "id": "16",
+      "enName": "Brown sugar",
+      "idName": "Gula merah",
+      "ingIMG": ""
+    },
+
+    {
+      "id": "17",
+      "enName": "Mango",
+      "idName": "Mangga",
+      "ingIMG": ""
+    },
+
+    {
+      "id": "18",
+      "enName": "Papaya",
+      "idName": "Pepaya",
+      "ingIMG": ""
+    },
+
+    {
+      "id": "19",
+      "enName": "Yam",
+      "idName": "Bengkuang",
+      "ingIMG": ""
+    },
+
+    {
+      "id": "20",
+      "enName": "Ambarella",
+      "idName": "Kedondong",
+      "ingIMG": ""
+    },
+
+    {
+      "id": "21",
+      "enName": "Cucumber",
+      "idName": "Timun",
+      "ingIMG": ""
+    },
+
+    {
+      "id": "22",
+      "enName": "Water apple",
+      "idName": "Jambu air",
+      "ingIMG": ""
+    },
+
+    {
+      "id": "23",
+      "enName": "Pineapple",
+      "idName": "Nanas",
+      "ingIMG": ""
+    },
+
+    {
+      "id": "24",
+      "enName": "Potato",
+      "idName": "Kentang",
+      "ingIMG": ""
+    },
+
+    {
+      "id": "25",
+      "enName": "Carrot",
+      "idName": "Wortel",
+      "ingIMG": ""
+    },
+
+    {
+      "id": "26",
+      "enName": "Lettuce",
+      "idName": "Daun selada",
+      "ingIMG": ""
+    },
+
+    {
+      "id": "27",
+      "enName": "Long beans",
+      "idName": "Kacang panjang",
+      "ingIMG": ""
+    },
+
+    {
+      "id": "28",
+      "enName": "Bean sprouts",
+      "idName": "Toge",
+      "ingIMG": ""
+    },
+
+    {
+      "id": "29",
+      "enName": "Cabbage",
+      "idName": "Kol",
+      "ingIMG": ""
+    },
+
+    {
+      "id": "30",
+      "enName": "Rice cake",
+      "idName": "Lontong",
+      "ingIMG": ""
+    },
+
+    {
+      "id": "31",
+      "enName": "Tempeh",
+      "idName": "Tempe",
+      "ingIMG": ""
+    },
+
+    {
+      "id": "32",
+      "enName": "Tofu",
+      "idName": "Tahu",
+      "ingIMG": ""
+    },
+
+    {
+      "id": "33",
+      "enName": "Coconut milk",
+      "idName": "Santan kelapa",
+      "ingIMG": ""
+    },
+
+    {
+      "id": "34",
+      "enName": "Legume peanuts",
+      "idName": "Kacang tanah",
+      "ingIMG": ""
+    },
+
+    {
+      "id": "35",
+      "enName": "Curly red chili",
+      "idName": "Cabai merah keriting",
+      "ingIMG": ""
+    },
+
+    {
+      "id": "36",
+      "enName": "Aromatic ginger",
+      "idName": "Kencur",
+      "ingIMG": ""
+    },
+
+    {
+      "id": "37",
+      "enName": "Galangal",
+      "idName": "Lengkuas",
+      "ingIMG": ""
+    },
+
+    {
+      "id": "38",
+      "enName": "Bay leaf",
+      "idName": "Daun salam",
+      "ingIMG": ""
+    },
+
+    {
+      "id": "39",
+      "enName": "Chicken broth",
+      "idName": "Kaldu ayam",
+      "ingIMG": ""
+    },
+
+    {
+      "id": "40",
+      "enName": "Kecombrang",
+      "idName": "Kecombrang",
+      "ingIMG": ""
+    },
+
+    {
+      "id": "41",
+      "enName": "Anise star",
+      "idName": "Bintang adas manis",
+      "ingIMG": ""
+    },
+
+    {
+      "id": "42",
+      "enName": "Chicken eggs",
+      "idName": "Telur ayam",
+      "ingIMG": ""
+    },
+
+    {
+      "id": "43",
+      "enName": "Tomato",
+      "idName": "Tomat",
+      "ingIMG": ""
+    },
+
+    {
+      "id": "44",
+      "enName": "White pepper",
+      "idName": "Merica putih",
+      "ingIMG": ""
+    },
+
+    {
+      "id": "45",
+      "enName": "Celery",
+      "idName": "Seledri",
+      "ingIMG": ""
+    },
+
+    {
+      "id": "46",
+      "enName": "Kikil",
+      "idName": "Kikil",
+      "ingIMG": ""
+    },
+
+    {
+      "id": "47",
+      "enName": "Green chili",
+      "idName": "Cabai hijau",
+      "ingIMG": ""
+    },
+
+    {
+      "id": "48",
+      "enName": "Petai",
+      "idName": "Petai",
+      "ingIMG": ""
+    },
+
+    {
+      "id": "49",
+      "enName": "White tea",
+      "idName": "Teh putih",
+      "ingIMG": ""
+    },
+
+    {
+      "id": "50",
+      "enName": "Katokkon chili",
+      "idName": "Cabai Katokkon",
+      "ingIMG": ""
+    },
+
+    {
+      "id": "51",
+      "enName": "Clove",
+      "idName": "Cengkih",
+      "ingIMG": ""
+    },
+
+    {
+      "id": "52",
+      "enName": "Candlenut",
+      "idName": "Kemiri",
+      "ingIMG": ""
+    },
+
+    {
+      "id": "53",
+      "enName": "Cinnamon",
+      "idName": "Kayu manis",
+      "ingIMG": ""
+    },
+
+    {
+      "id": "54",
+      "enName": "Cardamom",
+      "idName": "Kapulaga",
+      "ingIMG": ""
+    },
+
+    {
+      "id": "55",
+      "enName": "Nutmeg",
+      "idName": "Pala",
+      "ingIMG": ""
+    },
+
+    {
+      "id": "56",
+      "enName": "Coriander",
+      "idName": "Ketumbar",
+      "ingIMG": ""
+    },
+
+    {
+      "id": "57",
+      "enName": "Ginger",
+      "idName": "Jahe",
+      "ingIMG": ""
+    },
+
+    {
+      "id": "58",
+      "enName": "Turmeric",
+      "idName": "Kunyit",
+      "ingIMG": ""
+    },
+
+    {
+      "id": "59",
+      "enName": "Pangium",
+      "idName": "Kepayang",
+      "ingIMG": ""
+    },
+
+    {
+      "id": "60",
+      "enName": "Green eggplant",
+      "idName": "Terong hijau",
+      "ingIMG": ""
+    },
+
+    {
+      "id": "61",
+      "enName": "Lime",
+      "idName": "Jeruk limau",
+      "ingIMG": ""
+    },
+
+    {
+      "id": "62",
+      "enName": "Eel",
+      "idName": "Belut",
+      "ingIMG": ""
+    },
+
+    {
+      "id": "63",
+      "enName": "Anchovy",
+      "idName": "Ikan teri",
+      "ingIMG": ""
+    },
+
+    {
+      "id": "64",
+      "enName": "Mushroom broth",
+      "idName": "Kaldu jamur",
+      "ingIMG": ""
+    },
+
+    {
+      "id": "65",
+      "enName": "Squid",
+      "idName": "Cumi",
+      "ingIMG": ""
+    },
+
+    {
+      "id": "66",
+      "enName": "Andaliman",
+      "idName": "Andaliman",
+      "ingIMG": ""
+    },
+
+    {
+      "id": "67",
+      "enName": "Oncom",
+      "idName": "Oncom",
+      "ingIMG": ""
+    },
+
+    {
+      "id": "68",
+      "enName": "Mackarel tuna",
+      "idName": "Ikan tongkol",
+      "ingIMG": ""
+    },
+
+    {
+      "id": "69",
+      "enName": "Basil",
+      "idName": "Kemangi",
+      "ingIMG": ""
+    },
+
+    {
+      "id": "70",
+      "enName": "Devil's cayenne pepper",
+      "idName": "Cabe rawit setan",
+      "ingIMG": ""
+    },
+
+    {
+      "id": "71",
+      "enName": "Shrimp",
+      "idName": "Udang",
+      "ingIMG": ""
+    },
+
+    {
+      "id": "72",
+      "enName": "Curly green chilies",
+      "idName": "Cabe ijo keriting",
+      "ingIMG": ""
+    },
+
+    {
+      "id": "73",
+      "enName": "Beef liver",
+      "idName": "Hati sapi",
+      "ingIMG": ""
+    },
+
+    {
+      "id": "74",
+      "enName": "Pindang cob",
+      "idName": "Pindang tongkol",
+      "ingIMG": ""
+    },
+
+    {
+      "id": "75",
+      "enName": "Purple eggplant",
+      "idName": "Terong ungu",
+      "ingIMG": ""
+    },
+
+    {
+      "id": "76",
+      "enName": "Dry shrimp",
+      "idName": "Ebi",
+      "ingIMG": ""
+    },
+
+    {
+      "id": "77",
+      "enName": "Ruku-ruku leaves",
+      "idName": "Daun ruku-ruku",
+      "ingIMG": ""
+    },
+
+    {
+      "id": "78",
+      "enName": "",
+      "idName": "",
+      "ingIMG": ""
+    },
+
+    {
+      "id": "79",
+      "enName": "",
+      "idName": "",
+      "ingIMG": ""
+    },
+
+    {
+      "id": "80",
+      "enName": "",
+      "idName": "",
+      "ingIMG": ""
+    },
+
+    {
+      "id": "81",
+      "enName": "",
+      "idName": "",
+      "ingIMG": ""
+    },
+
+    {
+      "id": "82",
+      "enName": "",
+      "idName": "",
+      "ingIMG": ""
+    },
+
+    {
+      "id": "83",
+      "enName": "",
+      "idName": "",
+      "ingIMG": ""
+    },
+
+    {
+      "id": "84",
+      "enName": "",
+      "idName": "",
+      "ingIMG": ""
+    },
+
+    {
+      "id": "85",
+      "enName": "",
+      "idName": "",
+      "ingIMG": ""
+    },
+
+    {
+      "id": "86",
+      "enName": "",
+      "idName": "",
+      "ingIMG": ""
+    },
+
+    {
+      "id": "87",
+      "enName": "",
+      "idName": "",
+      "ingIMG": ""
+    },
+
+    {
+      "id": "88",
+      "enName": "",
+      "idName": "",
+      "ingIMG": ""
+    },
+
+    {
+      "id": "89",
+      "enName": "",
+      "idName": "",
+      "ingIMG": ""
+    },
+
+    {
+      "id": "90",
+      "enName": "",
+      "idName": "",
+      "ingIMG": ""
+    }
+]

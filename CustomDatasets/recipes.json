@@ -1,0 +1,307 @@
+[
+    {
+        "id": "1",
+        "name": "Tumis buncis udang",
+        "origin": "Muarateweh, Provinsi Central Kalimantan",
+        "time": 15,
+        "level": "Easy",
+        "serving": 2,
+        "ingredients": [
+            {
+                "quantity": "250",
+                "measurement": "grams",
+                "name": "Shrimp"
+            },
+            {
+                "quantity": "100",
+                "measurement": "grams",
+                "name": "Red chilli"
+            },
+            {
+                "quantity": "2",
+                "measurement": "whole",
+                "name": "Red chilli"
+            },
+            {
+                "quantity": "2",
+                "measurement": "whole",
+                "name": "Garlic"
+            },
+            {
+                "quantity": "1",
+                "measurement": "whole",
+                "name": "Tomato"
+            },
+            {
+                "quantity": "4",
+                "measurement": "table spoon",
+                "name": "Sugar"
+            },
+            {
+                "quantity": "1",
+                "measurement": "whole",
+                "name": "Kemiri"
+            }
+        ],
+        "steps": [
+            "Saute ground spices, add a little water and cook until fragrant.",
+            "Add the snap beans and sliced ​​green chilies, then add the sugar, salt and seasoning, mix well.",
+            "Finally add the prawns, cook until the prawns change color and are cooked. Lift and serve."
+        ],
+        "celebration": "Rahmadhan",
+        "funFact": "Created 60 years ago!",
+        "history": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "author": "Mufaridah Fauziah",
+        "credLink": "https://www.resepmami.info/cara-membuat-udang-rebon-pedas-dan-garing/",
+        "thumbnailIMG": "https://firebasestorage.googleapis.com/v0/b/ideat-79c3a.appspot.com/o/thumbnail.jpg?alt=media&token=ceeef448-d2b8-408a-8b9a-00e9cbeb16dc",
+        "coverIMG": "https://firebasestorage.googleapis.com/v0/b/ideat-79c3a.appspot.com/o/cover.jpg?alt=media&token=2906b5d8-2560-45e1-a567-2c23a9ff86a0",
+        "extraIMG": "https://firebasestorage.googleapis.com/v0/b/ideat-79c3a.appspot.com/o/extra.jpg?alt=media&token=5135b902-6a94-49e6-bd0e-83ea1be027d9",
+        "mapImg": "https://firebasestorage.googleapis.com/v0/b/ideat-79c3a.appspot.com/o/extra-1.jpg?alt=media&token=b858cee9-8dad-4abc-a201-cd7bd3d7cf9d"
+    },
+
+    {
+        "id": "2",
+        "name": "Sambal Pecel",
+        "origin": "Magelang, Provinsi Central Java",
+        "time": 45,
+        "level": "Medium",
+        "serving": 5,
+        "ingredients": [
+            {
+                "quantity": "250",
+                "measurement": "grams",
+                "name": "Roasted peanuts"
+            },
+            {
+                "quantity": "100",
+                "measurement": "grams",
+                "name": "Red chilli"
+            },
+            {
+                "quantity": "2",
+                "measurement": "whole",
+                "name": "Garlic"
+            },
+            {
+                "quantity": "2",
+                "measurement": "whole",
+                "name": "Kemiri"
+            },
+            {
+                "quantity": "1",
+                "measurement": "whole",
+                "name": "Lime leaves"
+            },
+            {
+                "quantity": "4",
+                "measurement": "table spoon",
+                "name": "Salt"
+            }
+        ],
+        "steps": [
+            "Fry or roast peanuts until cooked. Remove and drain then let stand until cold.",
+            "Grind the peanuts with a mortar, grinder or meat grinder until smooth. Put it in a container.",
+            "Subtle Seasoning: Fry the chilies, garlic and kencur until wilted. Lift and drain.",
+            "Grind or mash with palm sugar and lime leaves until smooth.",
+            "Mix the Smooth Seasoning with ground peanuts, tamarind then stir until completely blended and blended.",
+            "Pecel seasoning is ready to be used for boiled vegetable sauce."
+        ],
+        "celebration": "Independence Day",
+        "funFact": "Lorem ipsum dolor sit amet, consectetur",
+        "history": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "author": "Mufaridah Fauziah",
+        "credLink": "https://www.resepmami.info/cara-membuat-udang-rebon-pedas-dan-garing/",
+        "thumbnailIMG": "https://firebasestorage.googleapis.com/v0/b/ideat-79c3a.appspot.com/o/thumbnail.jpg?alt=media&token=ceeef448-d2b8-408a-8b9a-00e9cbeb16dc",
+        "coverIMG": "https://firebasestorage.googleapis.com/v0/b/ideat-79c3a.appspot.com/o/cover.jpg?alt=media&token=2906b5d8-2560-45e1-a567-2c23a9ff86a0",
+        "extraIMG": "https://firebasestorage.googleapis.com/v0/b/ideat-79c3a.appspot.com/o/extra.jpg?alt=media&token=5135b902-6a94-49e6-bd0e-83ea1be027d9",
+        "mapImg": "https://firebasestorage.googleapis.com/v0/b/ideat-79c3a.appspot.com/o/extra-1.jpg?alt=media&token=b858cee9-8dad-4abc-a201-cd7bd3d7cf9d"
+    },
+
+    {
+        "id": "3",
+        "name": "Sayur Asam",
+        "origin": "Aceh, Provinsi South Kalimantan",
+        "time": 15,
+        "level": "Easy",
+        "serving": 5,
+        "ingredients": [
+            {
+                "quantity": "250",
+                "measurement": "grams",
+                "name": "Chayote"
+            },
+            {
+                "quantity": "100",
+                "measurement": "grams",
+                "name": "Snap beans"
+            },
+            {
+                "quantity": "2",
+                "measurement": "whole",
+                "name": "Corn"
+            },
+            {
+                "quantity": "2",
+                "measurement": "whole",
+                "name": "Melinjo"
+            },
+            {
+                "quantity": "1",
+                "measurement": "whole",
+                "name": "Soybean sprouts"
+            },
+            {
+                "quantity": "4",
+                "measurement": "table spoon",
+                "name": "Galangal"
+            }
+        ],
+        "steps": [
+            "Bring the water to a boil, add the corn and boil briefly. Then add the other vegetables.",
+            "Cook the vegetables until half cooked, then add the ground spices, galangal, bay leaves, salt and seasoning.",
+            "Cook vegetables until cooked, then serve.",
+            "Then puree and season with salt and sugar."
+        ],
+        "celebration": "Easter",
+        "funFact": "[Easter] Lorem ipsum dolor sit amet, consectetur",
+        "history": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "author": "Mufaridah Fauziah",
+        "credLink": "https://www.resepmami.info/cara-membuat-udang-rebon-pedas-dan-garing/",
+        "thumbnailIMG": "https://firebasestorage.googleapis.com/v0/b/ideat-79c3a.appspot.com/o/thumbnail.jpg?alt=media&token=ceeef448-d2b8-408a-8b9a-00e9cbeb16dc",
+        "coverIMG": "https://firebasestorage.googleapis.com/v0/b/ideat-79c3a.appspot.com/o/cover.jpg?alt=media&token=2906b5d8-2560-45e1-a567-2c23a9ff86a0",
+        "extraIMG": "https://firebasestorage.googleapis.com/v0/b/ideat-79c3a.appspot.com/o/extra.jpg?alt=media&token=5135b902-6a94-49e6-bd0e-83ea1be027d9",
+        "mapImg": "https://firebasestorage.googleapis.com/v0/b/ideat-79c3a.appspot.com/o/extra-1.jpg?alt=media&token=b858cee9-8dad-4abc-a201-cd7bd3d7cf9d"
+    },
+
+    {
+        "id": "4",
+        "name": "Sambal Matah Bali",
+        "origin": "Provinsi Bali",
+        "time": 20,
+        "level": "Easy",
+        "serving": 5,
+        "ingredients": [
+            {
+                "quantity": "250",
+                "measurement": "grams",
+                "name": "Red chilli"
+            },
+            {
+                "quantity": "100",
+                "measurement": "grams",
+                "name": "Red onion"
+            },
+            {
+                "quantity": "2",
+                "measurement": "Lemongrass",
+                "name": "Corn"
+            },
+            {
+                "quantity": "2",
+                "measurement": "whole",
+                "name": "Salt"
+            },
+            {
+                "quantity": "1",
+                "measurement": "whole",
+                "name": "Black pepper"
+            },
+            {
+                "quantity": "4",
+                "measurement": "table spoon",
+                "name": "Sweet soy sauce"
+            }
+        ],
+        "steps": [
+            "Mix well the red bird's eye chilies, shallots, lemongrass, lime leaves, grilled shrimp paste, salt, and lime. Squeeze until the ingredients wither. set aside.",
+            "Heat the coconut oil, immediately pour it into the chili mixture. Stir well. Serve."
+        ],
+        "celebration": "Easter",
+        "funFact": "[Easter] Lorem ipsum dolor sit amet, consectetur",
+        "history": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "author": "Mufaridah Fauziah",
+        "credLink": "https://www.resepmami.info/cara-membuat-udang-rebon-pedas-dan-garing/",
+        "thumbnailIMG": "https://firebasestorage.googleapis.com/v0/b/ideat-79c3a.appspot.com/o/thumbnail.jpg?alt=media&token=ceeef448-d2b8-408a-8b9a-00e9cbeb16dc",
+        "coverIMG": "https://firebasestorage.googleapis.com/v0/b/ideat-79c3a.appspot.com/o/cover.jpg?alt=media&token=2906b5d8-2560-45e1-a567-2c23a9ff86a0",
+        "extraIMG": "https://firebasestorage.googleapis.com/v0/b/ideat-79c3a.appspot.com/o/extra.jpg?alt=media&token=5135b902-6a94-49e6-bd0e-83ea1be027d9",
+        "mapImg": "https://firebasestorage.googleapis.com/v0/b/ideat-79c3a.appspot.com/o/extra-1.jpg?alt=media&token=b858cee9-8dad-4abc-a201-cd7bd3d7cf9d"
+    },
+
+    {
+        "id": "5",
+        "name": "Sambal Ayam Goreng Khalasan khas jogja",
+        "origin": "Jogja, Province of Special Region of Yogyakarta",
+        "time": 45,
+        "level": "Medium",
+        "serving": 8,
+        "ingredients": [
+            {
+                "quantity": "250",
+                "measurement": "grams",
+                "name": "Sweet soy sauce"
+            },
+            {
+                "quantity": "100",
+                "measurement": "grams",
+                "name": "Chicken thighs"
+            },
+            {
+                "quantity": "2",
+                "measurement": "Red onion",
+                "name": "Corn"
+            }
+        ],
+        "steps": [
+            "Mix well the red bird's eye chilies, shallots, lemongrass, lime leaves, grilled shrimp paste, salt, and lime. Squeeze until the ingredients wither. set aside.",
+            "Heat the coconut oil, immediately pour it into the chili mixture. Stir well. Serve."
+        ],
+        "celebration": "Easter",
+        "funFact": "[Easter] Lorem ipsum dolor sit amet, consectetur",
+        "history": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "author": "Mufaridah Fauziah",
+        "credLink": "https://www.resepmami.info/cara-membuat-udang-rebon-pedas-dan-garing/",
+        "thumbnailIMG": "https://firebasestorage.googleapis.com/v0/b/ideat-79c3a.appspot.com/o/thumbnail.jpg?alt=media&token=ceeef448-d2b8-408a-8b9a-00e9cbeb16dc",
+        "coverIMG": "https://firebasestorage.googleapis.com/v0/b/ideat-79c3a.appspot.com/o/cover.jpg?alt=media&token=2906b5d8-2560-45e1-a567-2c23a9ff86a0",
+        "extraIMG": "https://firebasestorage.googleapis.com/v0/b/ideat-79c3a.appspot.com/o/extra.jpg?alt=media&token=5135b902-6a94-49e6-bd0e-83ea1be027d9",
+        "mapImg": "https://firebasestorage.googleapis.com/v0/b/ideat-79c3a.appspot.com/o/extra-1.jpg?alt=media&token=b858cee9-8dad-4abc-a201-cd7bd3d7cf9d"
+    },
+
+    {
+        "id": "6",
+        "name": "Bubu SumSum",
+        "origin": "Jogja, Province of Special Region of Yogyakarta",
+        "time": 40,
+        "level": "Medium",
+        "serving": 8,
+        "ingredients": [
+            {
+                "quantity": "250",
+                "measurement": "grams",
+                "name": "Rice flour"
+            },
+            {
+                "quantity": "100",
+                "measurement": "grams",
+                "name": "Condensed milk"
+            },
+            {
+                "quantity": "2",
+                "measurement": "Red onion",
+                "name": "Salt"
+            }
+        ],
+        "steps": [
+            "Mix well the red bird's eye chilies, shallots, lemongrass, lime leaves, grilled shrimp paste, salt, and lime. Squeeze until the ingredients wither. set aside.",
+            "Heat the coconut oil, immediately pour it into the chili mixture. Stir well. Serve."
+        ],
+        "celebration": "Easter",
+        "funFact": "[Easter] Lorem ipsum dolor sit amet, consectetur",
+        "history": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "author": "Mufaridah Fauziah",
+        "credLink": "https://www.resepmami.info/cara-membuat-udang-rebon-pedas-dan-garing/",
+        "thumbnailIMG": "https://firebasestorage.googleapis.com/v0/b/ideat-79c3a.appspot.com/o/thumbnail.jpg?alt=media&token=ceeef448-d2b8-408a-8b9a-00e9cbeb16dc",
+        "coverIMG": "https://firebasestorage.googleapis.com/v0/b/ideat-79c3a.appspot.com/o/cover.jpg?alt=media&token=2906b5d8-2560-45e1-a567-2c23a9ff86a0",
+        "extraIMG": "https://firebasestorage.googleapis.com/v0/b/ideat-79c3a.appspot.com/o/extra.jpg?alt=media&token=5135b902-6a94-49e6-bd0e-83ea1be027d9",
+        "mapImg": "https://firebasestorage.googleapis.com/v0/b/ideat-79c3a.appspot.com/o/extra-1.jpg?alt=media&token=b858cee9-8dad-4abc-a201-cd7bd3d7cf9d"
+    }
+]
